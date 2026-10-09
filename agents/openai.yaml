@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perfect Handoff · 项目整理与交接"
+  short_description: "一条龙整理项目知识，生成精简交接文档和新会话提示词，按需恢复上下文"
+  default_prompt: "使用 $perfect-handoff 整理当前项目，生成精简交接入口，并提供只恢复、核查和汇报的新会话提示词。"
